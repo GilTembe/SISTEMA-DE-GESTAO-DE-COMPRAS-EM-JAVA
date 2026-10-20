@@ -1,0 +1,4 @@
+Nome:Bruno Fernandes
+Perfil:OPERADOR
+USERNAME:BFernandes
+Senha:BFernandes321
